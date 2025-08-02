@@ -4,6 +4,8 @@
 **Date:** June 28, 2025
 
 This project enhances video quality and artistic style using deep learning. It integrates models for **super-resolution**, **frame interpolation**, **neural style transfer (with/without temporal consistency)**, and **lip-synced video generation**, all within a simple **Gradio UI**.
+
+
 🔗 [GitHub Repo](https://github.com/KINGARUDA/Gen-AI-Video-Editor)  
 📁 [Download Sample Outputs / Weights](https://drive.google.com/file/d/1pwUDQyk5ZH1BK4EL3q8ECmBcJw6tY6JL/view?usp=sharing) 
 
