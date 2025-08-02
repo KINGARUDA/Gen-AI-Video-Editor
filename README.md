@@ -68,9 +68,7 @@ This project enhances video quality and artistic style using deep learning. It i
 ## 🧪 How to Run
 
 ```bash
-# Clone the repo
-git clone https://github.com/KINGARUDA/Gen-AI-Video-Editor
-cd Gen-AI-Video-Editor
+Install the zip file from google drive and set it as working directory
 
 # Install requirements
 pip install -r requirements.txt
