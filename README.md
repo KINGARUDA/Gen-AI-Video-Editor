@@ -72,8 +72,7 @@ This project enhances video quality and artistic style using deep learning. It i
 ## 🧪 How to Run
 
 ```bash
-Install the zip file from google drive and set it as working directory
-
+#Install the zip file from google drive and set it as working directory
 
 # Install requirements
 pip install -r requirements.txt
