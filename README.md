@@ -1,4 +1,4 @@
-# 🎬 Video Enhancement and Stylization
+# 🎬 Gen-AI Video Editor
 
 **Authors:** Lucky Verma, Manvendra Singh  
 **Date:** June 28, 2025
@@ -69,8 +69,8 @@ This project enhances video quality and artistic style using deep learning. It i
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/video-enhance-stylize.git
-cd video-enhance-stylize
+git clone https://github.com/KINGARUDA/Gen-AI-Video-Editor
+cd Gen-AI-Video-Editor
 
 # Install requirements
 pip install -r requirements.txt
@@ -78,7 +78,4 @@ pip install -r requirements.txt
 # Run the Gradio UI
 python app.py
 
-```bash
-git clone https://github.com/yourusername/genai-video-editor.git
-cd genai-video-editor
-pip install -r requirements.txt
+
